@@ -35,7 +35,9 @@ Enabled seamless multi-page transitions using buttons for a smooth navigation ex
 ![image](https://github.com/user-attachments/assets/476ef302-d016-46d6-ac80-550ebb5285b6)
 
 2. Explore different dashboard views by clicking on navigation buttons.
+![image](https://github.com/user-attachments/assets/929b2a13-7e18-483c-92de-c5032fd65bed)
 ![image](https://github.com/user-attachments/assets/2a624d3c-9962-4ebe-9dcd-2003715cd8b0)
+![image](https://github.com/user-attachments/assets/9805d89b-e016-40b8-8bc6-0625b172a949)
 
 3. Use the custom filter panel to slice data.
 ![image](https://github.com/user-attachments/assets/e3ddc541-461f-44af-bf5f-4ae7745f7937)
